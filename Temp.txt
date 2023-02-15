@@ -1,0 +1,10 @@
+{id: "u999",
+fullname: "Ivan Martec",
+age: 64,
+salary: 10000,
+position: "boss"},
+{id: "u998"
+fullname: "Genadij Petroskin",
+age: "27",
+salary: 1000,
+position: "junior"}
